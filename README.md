@@ -1,6 +1,5 @@
-# PyS98 (Jingsu S98 Python Library)
+# JingsuS98-Controller (Jingsu S98 Python Library)
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
 
 Библиотека на Python для управления механической клавиатурой **Jingsu S98** (или совместимыми) по USB (HID). Позволяет управлять подсветкой, проверять уровень заряда батареи и настраивать индивидуальные цвета клавиш (Per-Key RGB).
@@ -18,8 +17,8 @@
 ## Установка (Installation)
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/pys98.git
-   cd pys98
+   git clone https://github.com/Watashis/JingsuS98-Controller
+   cd JingsuS98-Controller
    ```
 2. Установите зависимости:
    ```bash
