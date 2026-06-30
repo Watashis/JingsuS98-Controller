@@ -1,1 +1,19 @@
 Jingsu_S98.js
+todo.md
+*.pcapng
+*.pcap
+captures/*.json
+*_parsed.tsv
+1-9502093.xml
+layout_empty.json
+layout_fn.json
+layout_full_dump.txt
+layout_clear.json
+layout_remove.json
+layout.json
+music_2.json
+My Exclusive Config 4-9474546.xml
+music.json
+__pycache__
+CLAUDE.md
+tools
